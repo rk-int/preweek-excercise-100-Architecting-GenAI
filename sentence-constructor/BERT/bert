@@ -1,1 +1,8 @@
 
+BERT (standing for Bidirectional Encoder Representations from Transformers) is an open-source model developed by Google in 2018. It was an ambitious experiment to test the performance of the so-called transformer –an innovative neural architecture presented by Google researchers in the famous paper Attention is All You Need in 2017– on natural language (NLP) tasks.
+
+The key to the success of BERT is its transformer architecture. Before transformers kicked in, modeling natural language was a very challenging task. Despite the rise of sophisticated neural networks –namely, recurrent or convolutional neural networks– the results were only partly successful.
+
+The main challenge lies in the mechanism neural networks used to predict the missing word in a sentence. At that time, state-of-the-art neural networks relied on the encoder-decoder architecture, a powerful yet time-and-resource-consuming mechanism that is unsuitable for parallel computing.
+
+With these challenges in mind, Google researchers developed the transformer, an innovative
