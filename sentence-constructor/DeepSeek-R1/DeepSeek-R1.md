@@ -1,6 +1,7 @@
 
 The DeepSeek-R1 LLM represents a significant leap in language model capabilities, leveraging innovative reinforcement learning (RL) strategies and multi-stage training to achieve state-of-the-art reasoning performance, albeit with notable trade-offs in safety and efficiency. Below, we dissect its architecture, optimizations, and challenges.
 
+![image](https://github.com/user-attachments/assets/b5af90f8-2543-491e-b50e-e2470972672b)
 
 Architecture and Training Methodology
 Core Design Principles
