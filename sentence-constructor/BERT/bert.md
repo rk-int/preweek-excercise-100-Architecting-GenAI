@@ -33,3 +33,6 @@ Text generation. A precursor of next-generation chatbots, BERT was already able 
 Summarizing text. Equally, BERT was able to read and summarize texts from complex domains, including law and healthcare.
 Language translation. BERT has been trained on data written in multiple languages. That makes it a multilingual model, which translates into great suitability for language translation.
 Autocomplete tasks. BERT can be used for autocomplete tasks, for example, in emails or messaging services.
+
+![image](https://github.com/user-attachments/assets/e0fc11d7-3b05-46a3-94bf-08ed15f5cbfc)
+
